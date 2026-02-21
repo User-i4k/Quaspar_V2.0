@@ -244,7 +244,3 @@ if __name__ == "__main__":
             time.sleep(5)
         except:
             time.sleep(5)
-
-#
-# [*] server.py: https://dosya.co/mqw75p6eieo5/server.py.html
-#
