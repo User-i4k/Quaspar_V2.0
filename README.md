@@ -1,4 +1,4 @@
-# Quaspar V4.0 - Gelişmiş Uzak Yönetim Aracı
+# Quaspar - Gelişmiş Uzak Yönetim Aracı
 
 Quaspar, bilgisayar laboratuvarları ve yerel ağlar için tasarlanmış, bağımlılık gerektirmeyen, Python tabanlı bir uzak yönetim ve izleme aracıdır.
 
